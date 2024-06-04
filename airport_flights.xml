@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airport>
+    <departure>
+        <date>02.29.20</date>
+        <time>20:15</time>
+        <destination>Washington</destination>
+        <status>Boarding</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>21:02</time>
+        <destination>USA</destination>
+        <status>Gate Open</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>22:25</time>
+        <destination>Philippines</destination>
+        <status>Flight Closing</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>23:05</time>
+        <destination>Vietnam</destination>
+        <status>Boarding</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>00:15</time>
+        <destination>United States</destination>
+        <status>Boarding</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>01:26</time>
+        <destination>Norway</destination>
+        <status>Flight Closing</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>02:25</time>
+        <destination>Thailand</destination>
+        <status>Gate Open</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>03:16</time>
+        <destination>South Africa</destination>
+        <status>Gate Open</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>04:29</time>
+        <destination>Malaysia</destination>
+        <status>Boarding</status>
+    </departure>
+    <departure>
+        <date>02.29.20</date>
+        <time>05:15</time>
+        <destination>Iceland</destination>
+        <status>Flight Closing</status>
+    </departure>
+</airport>
