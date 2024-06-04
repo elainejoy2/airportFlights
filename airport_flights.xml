@@ -3,13 +3,13 @@
     <departure>
         <date>02.29.20</date>
         <time>20:15</time>
-        <destination>Washington</destination>
+        <destination>Singapore</destination>
         <status>Boarding</status>
     </departure>
     <departure>
         <date>02.29.20</date>
         <time>21:02</time>
-        <destination>USA</destination>
+        <destination>Thailand</destination>
         <status>Gate Open</status>
     </departure>
     <departure>
@@ -33,7 +33,7 @@
     <departure>
         <date>02.29.20</date>
         <time>01:26</time>
-        <destination>Norway</destination>
+        <destination>Korea</destination>
         <status>Flight Closing</status>
     </departure>
     <departure>
@@ -57,7 +57,7 @@
     <departure>
         <date>02.29.20</date>
         <time>05:15</time>
-        <destination>Iceland</destination>
+        <destination>China</destination>
         <status>Flight Closing</status>
     </departure>
 </airport>
